@@ -662,13 +662,18 @@
       {
         "filename": "USB-DC power path.kicad_sch",
         "name": "USB-DC power path",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "ef65cf94-2dab-4ef2-a03e-2c5ffd5180d6"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1,R1-2,U1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "ef65cf94-2dab-4ef2-a03e-2c5ffd5180d6",
+      "USB-DC power path"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
